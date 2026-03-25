@@ -158,7 +158,7 @@ Don't start by explaining the app. Start by asking about *their* world.
 >
 > **Manager:** "That's interesting. But will people actually use it?"
 >
-> **You:** "Good question. We're going door to door right now, getting companies signed up. We already have [X] companies on it. The more that join, the more useful it becomes. It takes 2 minutes to register."
+> **You:** "Good question. We're going door to door right now, getting companies signed up. We already have 20 companies on it. The more that join, the more useful it becomes. It takes 2 minutes to register."
 >
 > **Manager:** "How does it work technically?"
 >
@@ -272,7 +272,7 @@ Don't start by explaining the app. Start by asking about *their* world.
 >
 > **Them:** "You'll start charging later though."
 >
-> **You:** "No plans. The app only works when everyone's on it. Charging kills that. We gain from the network being strong, not from extracting money from it."
+> **You:** "No. The app only works when everyone's on it. The moment we charge, people leave and an empty directory is useless. We're not building this to make money from it — we're building it because we needed it ourselves, and it makes the building work better for everyone, including us. It's free. That's it."
 >
 > **Them:** "Why not building management? Why didn't they do this?"
 >
@@ -516,6 +516,161 @@ This is a smart question — and it shows the person is actually thinking about 
 - **Community reporting** — people can flag companies no longer in the building
 - **Company admin control** — you manage your own team members
 - **No value for outsiders** — app is only useful if you're physically in the building
+
+---
+
+## Scenario 12: "We Already Have a WhatsApp Group" — Competitor / Alternative Handling
+
+This is one of the most common pushbacks. People feel they already have a solution. The key: don't trash the alternative — **acknowledge it and show where it falls short.**
+
+---
+
+### Case A: "We have a building WhatsApp group already"
+
+> **Them:** "We already have a WhatsApp group for the building."
+>
+> **You:** "That's great — WhatsApp groups are useful for quick chats. But let me ask you this: if you needed a CA in this building right now, could you search the WhatsApp group and find one?"
+>
+> **Them:** "Not really. I'd have to ask in the group."
+>
+> **You:** "Exactly. And then 50 people see your message, 3 people reply, and the rest is noise. Spaze is different — it's a structured directory. Every company lists their products and services. You search 'CA', you see every CA in the building, compare them, and walk to the one you like. No asking, no waiting, no group spam. WhatsApp is for chatting. Spaze is for finding."
+>
+> **Them:** "But the WhatsApp group works fine for us."
+>
+> **You:** "Then keep using it — Spaze doesn't replace WhatsApp. It does something WhatsApp can't: organize 500 companies with all their products and services in a searchable directory. The WhatsApp group is great for announcements. Spaze is great for discovery. They work together."
+
+---
+
+### Case B: "I use LinkedIn / Google / JustDial for finding vendors"
+
+> **Them:** "If I need a vendor, I just Google it or use JustDial."
+>
+> **You:** "Sure, and you get results from across the city. You call, negotiate, wait for delivery. Now imagine — the same service is available two floors below you. Same-day delivery, face-to-face conversation, probably cheaper because there's no transport cost. You just didn't know they were here."
+>
+> **Them:** "But Google has reviews, ratings..."
+>
+> **You:** "And Spaze has something better — proximity and accountability. If a company in your building does bad work, you'll see them in the elevator tomorrow. That's more powerful than any online review. Plus, these are your neighbours — you build real business relationships, not one-time vendor transactions."
+>
+> **Them:** "I still find more options online."
+>
+> **You:** "No doubt. Online is great for specialized needs. But for everyday things — printing, courier, catering, IT support, legal, accounting — check the building first. Faster, cheaper, and you're supporting the people around you. Spaze just makes that possible."
+
+---
+
+### Case C: "Our building management already has a tenant directory"
+
+> **Them:** "Management gives us a tenant list."
+>
+> **You:** "Does that list tell you what each company's products and services are? Or is it just names and office numbers?"
+>
+> **Them:** "Just names, I think."
+>
+> **You:** "Right. So you know 'ABC Pvt Ltd' is on the 5th floor. But you don't know they do bulk printing, graphic design, AND visiting cards — which is exactly what you needed last week. Spaze goes deeper. Every company lists everything they offer. You don't just know who's here — you know what they can do for you."
+>
+> **Them:** "That's fair."
+>
+> **You:** "And tenant lists go stale — companies move in and out, the list doesn't update. Spaze stays current because companies manage their own profiles. It's always fresh."
+
+---
+
+### Case D: "We don't need another app"
+
+> **Them:** "I have too many apps already. I don't need one more."
+>
+> **You:** "Totally get it. Here's the thing — you don't need to use Spaze every day. It's not a social media app. It's more like a phonebook. You open it when you need something — a vendor, a service, a supplier. The rest of the time, it just sits there. But when you need it, it saves you hours of Googling and calling around."
+>
+> **Them:** "I'll just Google when I need something."
+>
+> **You:** "And get results from all over the city. Or you could check Spaze first — 10 seconds, and you know if someone in your own building can help. Takes way less time than Google, and the vendor is literally a walk away."
+
+---
+
+### Key Points for Competitor Handling:
+- **Never trash the alternative.** Say "that's great" and then show the gap.
+- WhatsApp = chat, not search. Spaze = structured, searchable directory.
+- Google/JustDial = city-wide noise. Spaze = building-level precision.
+- Management tenant lists = names only. Spaze = products, services, everything.
+- Spaze doesn't replace anything — it fills a gap nothing else covers.
+- The killer line: **"Check the building first, Google second."**
+
+---
+
+## Scenario 13: "What's the Real Business Model?" — For Smart / Experienced People
+
+Founders, CFOs, and experienced managers will ask hard questions about why it's free. Don't dodge this — own it honestly. The truth is simple: there's no monetization plan. The app exists because you needed it and it makes the building better.
+
+---
+
+### Case A: The sharp founder — "What's your monetization?"
+
+> **Them:** "Look, I've been in business long enough. Nothing is free forever. What's the actual plan?"
+>
+> **You:** "Straight answer — there is no monetization plan. We're Jina Code Systems, a software company in this building. We built Spaze because we kept needing services from companies around us and had no way to find them. So we built the tool we wished existed. It's free because we use it too."
+>
+> **Them:** "That doesn't make business sense. You're spending time and money building this."
+>
+> **You:** "It makes perfect sense for us. We're a software company — building apps is literally what we do. The cost of running a directory app is minimal. And the value we get back is huge — connections with every company in the building, credibility, and a product that people genuinely use. That's worth more to us than any subscription fee."
+>
+> **Them:** "But what if you shut down?"
+>
+> **You:** "We're in this building. This isn't some startup in another city that might vanish. But even in the worst case — if the app disappeared tomorrow, you've lost nothing. It's free, and all you've shared is your company name and what you do. Same stuff that's on your visiting card. Zero risk."
+>
+> **Them:** "You'll eventually start charging."
+>
+> **You:** "No. The app only works when every company is on it. Charging even one rupee kills adoption, and an empty directory is useless. We gain from the network being strong — not from extracting money from it."
+
+---
+
+### Case B: The CFO / finance person — "Where's the ROI?"
+
+> **Them:** "My time has a cost. Why should I spend even 2 minutes on this?"
+>
+> **You:** "Let me put it this way. How much does your company spend on outside vendors — printing, courier, catering, IT support, legal help?"
+>
+> **Them:** "A fair amount."
+>
+> **You:** "Now imagine even 20% of that could be fulfilled by a company in this building. No transport cost, same-day delivery, face-to-face accountability. You'd save money and time. Spaze just shows you who can do it. 2 minutes to sign up, and every time you need a vendor, you check the building first."
+>
+> **Them:** "And on the revenue side?"
+>
+> **You:** "Flip it — how many companies in this building need what YOU offer and don't know you exist? They're hiring outside vendors for something you do better. Every one of those is lost revenue. Spaze makes you visible to all of them. Zero marketing cost."
+
+---
+
+### Case C: "You're collecting our data to sell it"
+
+> **Them:** "Let's be real — the app is free because you're selling our data."
+>
+> **You:** "No. Here's why that doesn't even make sense for us. The data on Spaze is what you'd put on a visiting card — company name, what you do, products you offer. That's already public information. There's no hidden data to sell. We don't track your activity, we don't have your personal details, and we don't share anything with third parties."
+>
+> **Them:** "Every app says that."
+>
+> **You:** "True. But here's the difference — we're sitting in the same building as you. If we did anything shady, you'd literally walk to our office and confront us. Our reputation in this building IS our business. We'd be stupid to risk it over selling a list of company names that anyone can find by walking the floors."
+>
+> **Them:** "What about data breaches?"
+>
+> **You:** "Standard security — encrypted servers, no financial data stored, no personal phone numbers unless you choose to share them. And the data itself is low-risk — it's company info, not bank accounts. But we take it seriously because again, we're your neighbours, not some faceless company in another city."
+
+---
+
+### Case D: Quick version — "Yeah but why free?"
+
+> **Them:** "Seriously, why free?"
+>
+> **You:** "Because we built it for ourselves. We're a software company in this building — we needed a way to find services around us, couldn't find one, so we built it. Running it costs us almost nothing. And the connections we've made through it are worth way more than any fee we could charge. It's free. No catch. You're listing info that's already on your visiting card."
+
+---
+
+### Key Points for Business Model Objections:
+- **Be direct:** "There is no monetization plan. We built it because we needed it." Honesty is more convincing than a complicated business model story.
+- **"We're a software company — building apps is what we do."** This explains why you'd build a free tool. It's your craft.
+- **"Running it costs us almost nothing."** Removes the "but who's paying for servers" worry.
+- **"Connections and credibility are our ROI."** Real, believable, and true.
+- **"Charging kills the network."** Simple logic anyone understands.
+- **"You've lost nothing"** — even if the app disappears, they shared only public business info.
+- **Data selling is illogical** — the data is visiting-card level info, already public.
+- **Proximity = accountability** — "we're in the same building" is your strongest trust card.
+- **ROI framing for finance people** — save on vendor costs + gain visibility = free marketing.
 
 ---
 
