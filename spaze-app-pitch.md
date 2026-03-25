@@ -13,7 +13,7 @@ Spaze App is a free, community-driven platform designed for office buildings wit
 **Key Points:**
 - Over 500 companies are in this building, but most don’t know what others offer or need.
 - Spaze App lets you:
-  - Onboard your company and team easily
+  - Onboard your company easily
   - Share your services, products, or offers
   - Post requests or requirements
   - Find and connect with companies who can help
