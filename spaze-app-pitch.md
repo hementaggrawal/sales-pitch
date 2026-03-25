@@ -1,7 +1,40 @@
 # Spaze App: Real Conversation Pitch Guide
 
 ## What is Spaze App?
-Spaze App is a free, community-driven platform for office buildings with hundreds of companies. It helps everyone onboard, share offerings, post requests, and connect with others who can help or collaborate — breaking barriers to build a thriving business ecosystem within your building.
+Spaze App is a free business directory exclusively for your office building. Every company lists who they are, what they do, and the products/services they offer. Think of it as a Yellow Pages — but just for this building. No messaging, no broadcasting, no spam. If someone needs your service, they walk to your door or call you (only if you choose to share your number). Simple, clean, useful.
+
+## Who is Jina Code Systems?
+Jina Code Systems is a software company based in this building. Spaze is built by Jina Code Systems.
+
+**But here's the thing — you don't need to lead with any of that.**
+
+When you walk into someone's office, you're not selling Jina Code Systems. You're solving a real problem: *"Nobody in this building knows each other."* The company name comes up naturally only when someone asks. Here's how:
+
+### How to introduce the company smoothly
+
+**Rule: Don't open with the company name. Open with the problem or the app.**
+
+Bad: *"Hi, I'm from Jina Code Systems, we build software..."* (sounds like a sales pitch, they tune out)
+
+Good: *"Hi, we're from this building — we built a free directory app for all the companies here."* (sounds like a neighbor, they listen)
+
+**When they ask "Who are you?" or "Which company?":**
+
+> "We're Jina Code Systems — software company, right here in the building. We kept needing services from companies around us but had no way to find them. So we built Spaze."
+
+**When they ask "What does your company actually do?":**
+
+> "We're a software company — we build apps. Spaze is one of the things we've built because we saw a real need in our own building. It's free, it's simple, and it just makes the building work better."
+
+**When they dig deeper — "So this is a side project?":**
+
+> "It started as one. We needed a way to find vendors and services in the building, couldn't find one, so we built it ourselves. Now it's turned into something every building should have."
+
+**When they ask "What else does Jina Code Systems do?":**
+
+> "We build software solutions — apps, platforms, that kind of thing. But honestly, right now the focus is Spaze because the response from buildings has been amazing. Happy to chat more about what we do sometime — but today, this is about getting your company visible to the building."
+
+**Key principle:** Always steer back to *their* benefit. The company intro is a 10-second pit stop, not the destination.
 
 ---
 
@@ -13,7 +46,7 @@ This is the most common situation. You walk in, and the receptionist or front-de
 
 ### Case A: Receptionist says "Sir is not here" / "Ma'am is in a meeting"
 
-> **You:** "Hi! I'm from [your company], we're in this building too. I wanted to share something quick with your founder or office head — is he/she around?"
+> **You:** "Hi! I'm from Jina Code Systems, we're in this building too. I wanted to share something quick with your founder or office head — is he/she around?"
 >
 > **Receptionist:** "No, sir is not in right now."
 >
@@ -21,7 +54,7 @@ This is the most common situation. You walk in, and the receptionist or front-de
 >
 > **Receptionist:** "A lot, I think..."
 >
-> **You:** "Yeah, over 500. And the funny thing is, most of us don't even know what the company next door does. We've built a free app called Spaze — it's like a directory + marketplace just for this building. Your company can list what you offer, and if you need any service — printing, IT support, legal, catering, anything — you can find someone right here instead of searching outside."
+> **You:** "Yeah, over 500. And the funny thing is, most of us don't even know what the company next door does. We've built a free app called Spaze — it's basically a directory for this building. Your company lists who you are, what you do, all the products and services you offer — and anyone in the building can look you up. If they need what you offer, they come to your door. Simple as that."
 >
 > **Receptionist:** "Okay, sounds interesting."
 >
@@ -45,7 +78,7 @@ This is the most common situation. You walk in, and the receptionist or front-de
 >
 > **Receptionist:** "Yeah, sometimes."
 >
-> **You:** "So that's exactly what this solves. There are companies in this building that do all of that — but nobody knows about each other. This app just makes everyone visible. Your company can also list what you do, and other companies here will find you. Zero cost."
+> **You:** "So that's exactly what this solves. There are companies in this building that do all of that — but nobody knows about each other. Spaze is just a directory — your company lists what you do, all your products and services, and anyone in the building can find you. No messages, no spam — if someone needs you, they come to your door. Zero cost."
 >
 > **Receptionist:** "Hmm, I'll tell my manager."
 >
@@ -69,11 +102,11 @@ This is the most common situation. You walk in, and the receptionist or front-de
 
 ### Case D: Receptionist is friendly and curious — wants to know more
 
-> **You:** "Hi! I'm from [your company], right here in the building. We've created a free app called Spaze for all the companies in this building."
+> **You:** "Hi! I'm from Jina Code Systems, right here in the building. We've created a free app called Spaze for all the companies in this building."
 >
 > **Receptionist:** "Oh cool, what does it do?"
 >
-> **You:** "It's super simple. Your company signs up, lists what you offer — like if you do accounting, or marketing, or printing — and then any of the 500+ companies here can find you. And if you need something — say a web developer, or a lawyer, or bulk stationery — you post it, and someone in the building can help."
+> **You:** "It's super simple. Your company signs up, lists what you offer — like if you do accounting, or marketing, or printing — you can list as many products and services as you want. Then any of the 500+ companies here can find you when they search. And if you need something — a web developer, a lawyer, bulk stationery — you search the app, see who offers it right here, and go knock on their door."
 >
 > **Receptionist:** "That's actually useful. We keep calling outside vendors for everything."
 >
@@ -81,11 +114,11 @@ This is the most common situation. You walk in, and the receptionist or front-de
 >
 > *(Show the app)*
 >
-> **You:** "See — these are companies already on it. You can browse, search, post, chat. All free."
+> **You:** "See — these are companies already on it. You can browse by category, compare who offers what. All free, no spam."
 >
 > **Receptionist:** "Nice. Let me show this to my boss."
 >
-> **You:** "Please do! Here's the flyer. And tell your boss if they want a 2-minute demo, I'm in the building — just send someone to find me or drop a message on the app."
+> **You:** "Please do! Here's the flyer. And tell your boss if they want a 2-minute demo, I'm in the building — just send someone to find me."
 
 **Key move:** When someone is genuinely interested, SHOW the app. Visual proof beats any pitch.
 
@@ -121,7 +154,7 @@ Don't start by explaining the app. Start by asking about *their* world.
 >
 > **Manager:** "What's Spaze?"
 >
-> **You:** "It's a free app — think of it like a business directory + marketplace, but only for this building. Every company lists what they offer and what they need. So if someone here needs interior design work, they find you. And if you need a good electrician or a painter, you might find one right here too."
+> **You:** "It's a free directory app — but only for this building. Every company lists who they are and all the products and services they offer. So if someone here needs interior design work, they search, find you, and come to your office. If you need an electrician or painter, same thing — search, see who's here, walk to their door."
 >
 > **Manager:** "That's interesting. But will people actually use it?"
 >
@@ -129,7 +162,7 @@ Don't start by explaining the app. Start by asking about *their* world.
 >
 > **Manager:** "How does it work technically?"
 >
-> **You:** "Super simple — download the app, register your company, list your services, and you're live. You can also post if you need something. Other companies see it and reach out through in-app chat. No middleman, no charges."
+> **You:** "Super simple — download the app, and you can only sign up while you're in the building. The app checks your location once to confirm you're here. Then you register your company, list all your services and products, and you're live. You choose what to share — just your company details, or your phone number too. If someone needs what you offer, they find you on the app and come to your office. No middleman, no messages, no charges."
 >
 > **Manager:** "Let me talk to my boss about it."
 >
@@ -151,11 +184,11 @@ Don't start by explaining the app. Start by asking about *their* world.
 >
 > **Them:** "Not really."
 >
-> **You:** "That's the problem. We built a free app called Spaze — every company lists what they offer and what they need. You find clients, vendors, partners right here in the building. Takes 2 minutes to sign up. No cost, no catch."
+> **You:** "That's the problem. We built a free app called Spaze — it's a directory for this building. Every company lists their products and services. You need a vendor? Search the app, see who's here, walk to their door. Someone needs what you offer? They find you the same way. Takes 2 minutes to sign up. No cost, no catch."
 >
 > *(Show the app on your phone for 10 seconds)*
 >
-> **You:** "See — here's what it looks like. Companies are already on here. You list your stuff, and anyone in the building who needs it finds you. Simple."
+> **You:** "See — here's what it looks like. Companies are already listed. You can browse by category — say you search 'printing', you see every company that does it, compare them, and go to the one you like. Simple."
 >
 > **Them:** "Okay, share the link."
 >
@@ -175,37 +208,37 @@ Don't start by explaining the app. Start by asking about *their* world.
 >
 > **Them:** "...Hmm. That's a point."
 >
-> **You:** "That's literally all Spaze does. Makes you visible to the building. Free, 2 minutes, done."
+> **You:** "That's literally all Spaze does. It's a directory — lists every company and all their products. People browse, compare, pick who to go to. Makes you visible to the building. Free, 2 minutes, done."
 
 ---
 
 ## Scenario 3: Business Owner / Decision Maker
 
-> **You:** "Hi, I'm Tapan from [your company] — we're in this building too. Got a quick minute?"
+> **You:** "Hi, I'm Tapan from Jina Code Systems — we're in this building too. Got a quick minute?"
 >
 > **Owner:** "Sure, what's up?"
 >
-> **You:** "Straight to it. There are hundreds of companies in this building, and most of us are invisible to each other. We built a free app called Spaze that changes that. You list what your company does, and every other company in the building can see it. Someone needs your service? They find you instantly."
+> **You:** "Straight to it. There are hundreds of companies in this building, and most of us are invisible to each other. We built a free app called Spaze — it's a directory for this building. You list what your company does, all the products and services you offer, and every company in the building can find you. Someone needs your service? They look you up and come to your door."
 >
 > **Owner:** "Why would I need that? I have my own clients."
 >
-> **You:** "Fair. But think about this — there are companies on the 8th floor right now that might need exactly what you offer, and they don't know you exist. They're Googling, hiring outside vendors, paying more. You're right here. Zero marketing cost, zero effort — just be visible."
+> **You:** "Fair. But there are companies on the 8th floor right now that might need exactly what you offer, and they don't know you exist. They're Googling, hiring outside vendors, paying more. You're right here. Zero marketing cost, zero effort — just be listed and let people find you."
 >
 > **Owner:** "What's the catch? Why free?"
 >
-> **You:** "Honest answer — we're a tech company in this building. We kept needing services that were right here but had no way to find them. So we built the tool. Our benefit is the community itself — connections, credibility, and shipping something people actually use."
+> **You:** "Honest answer — we're Jina Code Systems, a software company right here in this building. We kept needing services that were right here but had no way to find them. So we built Spaze. Our benefit is the community itself — connections, credibility, and shipping something people actually use."
 >
-> **Owner:** "What if I want to promote a special offer?"
+> **Owner:** "What if I want to list multiple things we do?"
 >
-> **You:** "Just post it. Everyone in the building sees it. People can search by category, so your post reaches the right people."
+> **You:** "List as many as you want. Products, services, specializations — all of it. People can search by category, so if someone searches 'printing' or 'legal services', every company that offers it shows up. They compare and pick who to visit."
 >
-> **Owner:** "What if someone spams it?"
+> **Owner:** "Will random people start calling me?"
 >
-> **You:** "Moderation is built in. Anyone can report. We review and act fast. The goal is useful, not noisy."
+> **You:** "Only if you share your number. You can choose to list just your company name, office number, and what you do — no phone number. If someone needs you, they walk to your office. You're in full control."
 >
 > **Owner:** "Alright, send me the link."
 >
-> **You:** "Here's the QR code — 2 minutes and you're set. Ping me on the app if you need help. I'm right here in the building."
+> **You:** "Here's the QR code — 2 minutes and you're set. I'm right here in the building if you need any help."
 
 ---
 
@@ -215,7 +248,7 @@ Don't start by explaining the app. Start by asking about *their* world.
 >
 > **Them:** "Uh, not really."
 >
-> **You:** "Exactly. That's the whole point of Spaze. 500+ companies here, all strangers. This app makes everyone visible. List what you offer, list what you need — the building does the rest."
+> **You:** "Exactly. That's the whole point of Spaze. 500+ companies here, all strangers. This app is just a directory — you list your company, your products, your services. People browse, compare, and if they need you, they come to your door."
 >
 > **Them:** "I don't need anything from other companies."
 >
@@ -235,7 +268,7 @@ Don't start by explaining the app. Start by asking about *their* world.
 
 > **Them:** "Why are *you* building this? What's in it for you?"
 >
-> **You:** "Legitimate question. We're a tech company in this building. We kept needing services that were right here but had no way to find them. So we built the solution. It's free because the moment we charge, people leave and it becomes useless. Our benefit is the community — connections, credibility, and the experience of building something people use."
+> **You:** "Legitimate question. We're Jina Code Systems — a software company right here in this building. We kept needing services that were right here but had no way to find them. So we built Spaze. It's free because the moment we charge, people leave and it becomes useless. Our benefit is the community — connections, credibility, and the experience of building something people actually use."
 >
 > **Them:** "You'll start charging later though."
 >
@@ -265,7 +298,7 @@ Don't start by explaining the app. Start by asking about *their* world.
 >
 > **Employee:** "No, what is it?"
 >
-> **You:** "Free app for everyone in this building. See what all the other companies offer, post if you need something, connect directly. Like if you need a courier service or someone who does printing — there's probably a company right here that does it."
+> **You:** "Free directory app for this building. You can see what every company here offers — all their products and services. Like if you need a courier service or someone who does printing — search, find them, and walk to their office. No calls, no spam — just a directory."
 >
 > **Employee:** "Nice. But I don't make decisions for my company."
 >
@@ -281,15 +314,347 @@ Don't start by explaining the app. Start by asking about *their* world.
 
 > **Them:** "I'm not comfortable putting my company info on some random app."
 >
-> **You:** "Totally fair. Few things: first, this isn't public — only verified people from this building see anything. Closed community. Second, you control what you share — as much or as little as you want. Third, you can delete your profile and all data instantly, anytime."
+> **You:** "Totally fair. Here's the deal — you control everything you share. You can list just your company name, floor, and what you do. That's it. No phone number, no email, nothing personal. If someone needs your service, they literally walk to your office and knock. You choose how visible you want to be."
+>
+> **Them:** "But what if I don't want people showing up at my door?"
+>
+> **You:** "Then don't list your exact office number. Just list your company name, your floor, and your products. Someone interested would have to look for you — same as today, but now they at least know you exist. And you can delete your profile anytime."
 >
 > **Them:** "Where does the data go?"
 >
-> **You:** "Secure, industry-standard servers. Data stays within the platform, never shared outside. We're in the same building as you — our reputation is literally on the line."
+> **You:** "Secure servers. Data stays within the platform, never shared outside. And remember — we're in the same building as you. Our reputation is literally on the line."
 >
 > **Them:** "I'll think about it."
 >
-> **You:** "Take your time. Here's the flyer — read more and decide when you're ready."
+> **You:** "Take your time. Here's the flyer — have a look and decide when you're ready."
+
+---
+
+## Scenario 9: "I'll Get Spammed" — The Real Estate / Unsolicited Contact Fear
+
+People worry that the moment they list themselves, real estate agents, insurance sellers, and salespeople will flood them. This is where Spaze's model — **no messaging at all, just a directory** — kills this objection completely.
+
+---
+
+### Case A: "Real estate wale seedha call karenge" / "I'll start getting spam calls"
+
+> **Them:** "Agar main apni info daal doon, toh real estate wale seedha mujhe call karenge. Mujhe ye nahi chahiye."
+>
+> **You:** "That's actually impossible on Spaze. There is no messaging in the app. Zero. Nobody can call you, text you, or send you anything through it. It's just a directory — like a noticeboard."
+>
+> **Them:** "But they'll see my number and call me directly?"
+>
+> **You:** "Only if YOU choose to share your number. And you don't have to. Most companies just list their name, what they do, and their products. No phone number, no email. If someone needs your service, they walk to your office — the same way I came to yours today."
+>
+> **Them:** "But still, what if an insurance or real estate company in the building sees my listing and shows up at my door?"
+>
+> **You:** "Think about it — they can do that today anyway. Anyone can walk door-to-door right now without the app. The app doesn't change that. What the app does change is that YOU can find services you actually need without leaving the building. It helps you — it doesn't expose you."
+>
+> **Them:** "Hmm, that's a fair point."
+>
+> **You:** "Exactly. And everyone in this building is a professional. Nobody wants to be known as the company that goes around bothering people. We're all neighbours here."
+
+---
+
+### Case B: "Insurance, loan, credit card wale bhi aayenge"
+
+> **Them:** "Real estate toh ek hai, par insurance, loan, credit card — sab aayenge. Har app pe hota hai."
+>
+> **You:** "Not this one. There is zero messaging on Spaze. No chat, no inbox, no notifications from other companies. It's a pure directory — like a building phonebook. You look up what you need, when you need it. Nobody can push anything to you."
+>
+> **Them:** "But what if a company in the building is an insurance company? They'll use the app to find targets."
+>
+> **You:** "They can list their services — that's their business. But the app only shows info. No way to message or contact you through it. All they can do is what anyone can already do today — walk to your office. The app doesn't give them any extra power. In fact, it's better for you — because now if YOU need insurance someday, you know who's in the building and can go to them on your own terms."
+>
+> **Them:** "So how does someone reach me if they need my service?"
+>
+> **You:** "They see your listing — company name, floor, products you offer. And they walk to your door. Just like real business is done. If you want to make it easier, you can share your phone number — but that's 100% your choice. Most companies just list their details and let people come to them."
+>
+> **Them:** "Okay, that actually makes sense. It's just a listing."
+>
+> **You:** "Exactly. Just a listing. You're in control."
+
+---
+
+### Case C: "But won't companies use this to sell to everyone?"
+
+> **Them:** "Some company will just use this app to target everyone in the building for sales."
+>
+> **You:** "They could try — but there's no messaging, so what can they do? At most, they see the directory, pick some companies, and walk to their offices. They can already do that today without the app. The app doesn't make spamming easier — it makes finding useful services easier. Big difference."
+>
+> **Them:** "So it's basically like... a menu for the building?"
+>
+> **You:** "That's actually a great way to put it. A menu. You list your products and services. People browse, compare, and choose who to visit. Nobody's pushing anything on you."
+
+---
+
+### Case D: Quick version — "Will I get random contacts?"
+
+> **Them:** "I don't want random people contacting me."
+>
+> **You:** "There's no messaging in the app. It's just a directory. People see what you offer. If they need you, they come to your office — same as real life. Your phone number is only visible if you choose to share it. Nobody can ping, message, or spam you through the app. It's not built that way."
+
+---
+
+### Key Points to Remember for This Objection:
+- **No messaging at all** — Spaze is a directory, not a messaging platform
+- **Phone number is 100% optional** — you choose whether to share it or not
+- **Contact happens offline** — someone needs you, they walk to your office
+- **No extra exposure** — the app doesn't give salespeople any power they don't already have (anyone can walk door-to-door today)
+- **You list products, people compare** — buyers browse and choose who to visit, like a menu
+- **Building accountability** — everyone's a known professional, not a random stranger
+
+---
+
+## Scenario 10: How Companies Can Use Spaze for Sales (The "Smart Sales" Pitch)
+
+This is a powerful angle — especially for companies that offer B2B services. But the key message: **the app helps you find your target, not spam them.**
+
+---
+
+### Case A: Pitching to a company that sells B2B services
+
+> **Owner:** "So can I use this to find potential clients in the building?"
+>
+> **You:** "Absolutely. That's one of the best things about it. Say you do IT support — you open Spaze, browse the directory, and see every company in the building, what they do, what products they offer. You get a sense of who might need your service. Then you do what we're doing right now — walk to their office and introduce yourself."
+>
+> **Owner:** "So it's like a lead list for the building?"
+>
+> **You:** "Kind of — but a fair one. Everyone's listed, everyone's visible. Nobody gets spammed. If you want to pitch a company, you go to their door, just like I came to yours. The app just tells you who's here and what they do — so you don't waste time knocking on offices that would never need your service."
+>
+> **Owner:** "That's actually useful for my sales team."
+>
+> **You:** "Exactly. And the flip side is even better — companies that DO need your service can find YOU on the app without you even knocking. They search 'IT support', see your listing with all the services you offer, and walk to your office. Sales that come to you."
+
+---
+
+### Case B: Someone worries other companies will "sell to them"
+
+> **Them:** "Won't other companies use this to target me for sales?"
+>
+> **You:** "Here's what they can do: see your company name, what floor you're on, and what you do. That's it. There's no messaging. If they want to pitch you, they have to walk to your door — same as anyone can do today, with or without the app. The app doesn't give them your number, doesn't let them message you, doesn't send you notifications. All it does is tell them you exist."
+>
+> **Them:** "So basically, the worst case is someone knocks on my door?"
+>
+> **You:** "Exactly. And that can happen today anyway. The difference is, with Spaze, they'd know what you do before they come — so they'd only show up if it actually makes sense. Less random, more relevant."
+
+---
+
+### Key pitch angle for this:
+> "Spaze helps your sales team find the right doors to knock on. But they still have to knock — just like we did. No shortcuts, no spam, no mass-messages. Real business, face to face."
+
+---
+
+## Scenario 11: "How Do You Make Sure Only Building People Are on the App?"
+
+This is a smart question — and it shows the person is actually thinking about it seriously. Answer it confidently.
+
+---
+
+### Case A: "Anyone can just download and join, no?"
+
+> **Them:** "If it's an app, anyone can download it. How do you make sure it's only people from this building?"
+>
+> **You:** "Simple — you can only sign up when you're physically inside the building. The app checks your location during registration. If you're not here, you can't create an account. Period."
+>
+> **Them:** "So it uses GPS?"
+>
+> **You:** "Yes, just once — at signup. It confirms you're inside the building. After that, no tracking. You can use the app from anywhere — home, a client meeting, wherever. But that first registration? You have to be standing right here."
+>
+> **Them:** "But what if someone lies about their company name?"
+>
+> **You:** "Even if they're in the building, they still have to enter their office number, floor, and company name. We cross-check that. So you need to be physically here AND have a real office. Random people can't get in."
+>
+> **Them:** "Okay, that's solid."
+>
+> **You:** "Think of it like a gated community — you have to be inside the gate to join. Same idea."
+
+---
+
+### Case B: "What if a company moves out? They still have the app."
+
+> **Them:** "Companies move out of the building all the time. What happens to their profile?"
+>
+> **You:** "Good point. We do periodic checks — every few months, the app asks users to re-verify by opening it while they're in the building. Same location check as signup. If a company has moved out, they can't re-verify — and their profile gets deactivated automatically."
+>
+> **Them:** "So it's not automatic?"
+>
+> **You:** "It's automatic. The app does a location re-check every few months — you just open the app while you're at work, and it confirms you're still here. If someone can't re-verify because they've moved out, their profile goes inactive. We also get reports from the community. So it stays clean on its own."
+>
+> **Them:** "Makes sense."
+>
+> **You:** "Exactly. The whole point is to keep it relevant — only active companies that are actually here right now."
+
+---
+
+### Case C: "What stops someone's ex-employee from staying on?"
+
+> **Them:** "If I register my team, and someone leaves the company, they'll still be on the app."
+>
+> **You:** "You can manage that yourself — as an admin of your company profile, you can remove team members anytime. And if an individual leaves the building entirely, the same verification applies — they get flagged and removed."
+>
+> **Them:** "Can I control who represents my company on the app?"
+>
+> **You:** "Yes. You set up the company profile, and you decide who from your team gets access. You're in full control."
+
+---
+
+### Case D: Quick version — one-liner response
+
+> **Them:** "How do I know random people won't join?"
+>
+> **You:** "Closed community. You have to be physically inside the building to sign up — the app checks your location. No office, no access. And every few months, it re-checks. If a company moves out, they get deactivated automatically."
+
+---
+
+### Key Points to Remember for This Objection:
+- **GPS check at signup** — you must be physically inside the building to register
+- **Office number + floor verification** — cross-checked against actual offices
+- **One-time location check** — no ongoing tracking after signup
+- **Periodic re-verification** — every few months, open the app in the building to stay active
+- **Auto-deactivation** — moved-out companies can't re-verify, profile goes inactive
+- **Community reporting** — people can flag companies no longer in the building
+- **Company admin control** — you manage your own team members
+- **No value for outsiders** — app is only useful if you're physically in the building
+
+---
+
+## Internal Strategy: How to ACTUALLY Verify Building Members (Without Depending on Building Management)
+
+Building authority might not cooperate, might be slow, or might not care. Here's how to handle verification smartly on your own.
+
+---
+
+### Method 1: Door-to-Door Onboarding = Your Verification
+
+**The smartest approach: YOU are the verification.**
+
+Since you're going door-to-door anyway, every company you onboard is verified by you in person. You walked in, you saw the office, you met the person. That's stronger proof than any digital check.
+
+**How to operationalize this:**
+- When you visit an office, note: **company name, office/unit number, floor, person's name, what they do**
+- Only activate accounts for companies YOU have physically visited
+- The signup flow should require an **invite code or approval** — don't allow open registration
+- You generate the code on the spot when you visit them, or you approve their request later that day
+
+> **In the pitch, say it like this:**
+> "We don't allow random signups. Every company on Spaze has been personally verified by our team — we've visited them, met them, confirmed they're in this building. That's why the community stays clean."
+
+---
+
+### Method 2: Office Number as the Anchor
+
+Every office in a commercial building has a **unit/office number** (e.g., 301, 512-A, Tower B - 7th Floor). Use this as the primary verification.
+
+**How it works:**
+- During signup, ask for: **office/unit number + floor + tower (if applicable)**
+- Maintain your own master list of office numbers (build this as you go door-to-door)
+- If someone claims an office number that's already taken by another company → flag it
+- If an office number doesn't exist in your list → manual review before approval
+
+**Why this is smart:**
+- You don't need building management to give you a tenant list
+- You build the list yourself as you pitch
+- Office numbers don't change — even if companies come and go, the numbers stay
+- It's easy to spot fakes (there's no "Office 999" in a 10-floor building)
+
+---
+
+### Method 3: Photo Verification (Simple & Powerful)
+
+Ask new users to upload a **photo of their office nameplate, door sign, or visiting card** during signup.
+
+**How it works:**
+- Signup step: "Take a quick photo of your office nameplate or door sign"
+- Your team reviews it before activating the account
+- Takes 10 seconds to verify — you can see the company name, office number, and building context in the photo
+
+**Why this is smart:**
+- Can't be faked easily (you'd literally need to be standing at the office)
+- Works even if you haven't visited that company yet
+- Creates a visual record of every verified company
+- People are used to this — many delivery and service apps do it
+
+---
+
+### Method 4: GPS Geofence Verification (Tech Option — Recommended)
+
+Use the building's GPS coordinates to create an invisible boundary. If you're inside, you're verified.
+
+**How it works:**
+- Define a GPS geofence around the building (a circle or polygon using the building's lat/long coordinates)
+- During **first-time registration**, the app checks if the user is physically inside the geofence
+- If yes → account activated instantly. If no → registration blocked with message: "You need to be inside the building to sign up"
+- After initial verification, they can use the app from anywhere (WFH days, client meetings, etc.)
+
+**Implementation details:**
+- Use the building's Google Maps pin as center point
+- Set radius to ~50-100 meters (covers the building + small buffer for GPS drift)
+- iOS: use Core Location / CLCircularRegion. Android: use Google Geofencing API
+- One-time location permission prompt at signup — no background tracking needed
+- Store a "verified_at" timestamp so you know when they last confirmed presence
+
+**For ongoing verification (companies that move out):**
+- Every 3-6 months, prompt users to "re-verify" by opening the app while in the building
+- Simple notification: "Tap to confirm you're still in [Building Name]" — only works if GPS shows they're inside
+- No response or can't verify within 30 days → profile goes inactive
+- This is passive and non-intrusive — they just need to open the app once while at work
+
+**Why this is the smartest approach:**
+- Fully automated — zero manual review needed
+- Can't be faked (GPS spoofing is technically possible but extremely unlikely for a building app)
+- Scales infinitely — works whether you have 10 or 1000 companies
+- Handles move-outs automatically — if they can't re-verify, they're gone
+- No dependency on building management, Wi-Fi access, or any third party
+
+**What to say when people ask about location:**
+> "We ask for your location just once — during signup — to confirm you're in the building. After that, no tracking. Every few months we'll ask you to re-confirm, which just means opening the app while you're at work. That's it."
+
+**Limitation:** ~5-10% of users may have location services disabled. For them, fall back to photo verification (Method 3).
+
+---
+
+### Method 5: Referral Chain (Community Verifies Itself)
+
+**How it works:**
+- First batch of companies: verified by you in person (door-to-door)
+- After that: existing verified members can **invite** new companies
+- Each invite is tied to the inviter — if someone invites a fake company, the inviter is accountable
+- Cap it: each company can invite 3-5 others max
+
+**Why this is smart:**
+- The community polices itself
+- People only invite companies they actually know are in the building
+- Creates organic growth with built-in trust
+- Reduces your workload as the community grows
+
+---
+
+### Method 6: Periodic "Are You Still Here?" Check
+
+For handling companies that move out:
+
+- **Quarterly ping:** Push a notification — "Confirm you're still in the building. Tap to verify."
+- If no response in 7 days → mark profile as inactive
+- If no response in 30 days → deactivate
+- Any active user can also **report** a company as "no longer in the building"
+- Your team does a **floor walk** every quarter — takes one afternoon, keeps the list fresh
+
+---
+
+### Recommended Combo (What You Should Actually Do)
+
+| Stage | Method |
+|---|---|
+| **Day 1 - Initial onboarding** | Door-to-door + office number collection (Methods 1 + 2) |
+| **Signup flow** | Office number + photo of nameplate (Methods 2 + 3) |
+| **Scaling up** | Add referral invites so the community grows itself (Method 5) |
+| **Ongoing cleanup** | Quarterly ping + community reporting (Method 6) |
+| **Tech upgrade (build this in)** | GPS geofence — auto-verify at signup + periodic re-verify (Method 4) |
+
+**The pitch-friendly version:**
+
+> "Every company on Spaze is verified — either we've visited them personally or they've been verified through office number and photo proof. We don't allow random signups. And we do regular checks to make sure only active building companies stay on the platform. If someone moves out, they're removed."
 
 ---
 
@@ -300,7 +665,7 @@ Don't start by explaining the app. Start by asking about *their* world.
 | Person seems busy | "10 seconds — free app that connects all 500 companies in this building. Here's a flyer, I'll let you get back to work." |
 | Person seems friendly | "Quick question — do you know what the company on your floor does? No? That's exactly why we built Spaze." |
 | Person seems skeptical | "I know, another app. But this one's only for this building — 500 companies, all invisible to each other. We're fixing that. It's free." |
-| Person asks your motive | "We're a company here too. We kept needing services that were right here but couldn't find them. So we built the tool." |
+| Person asks your motive | "We're Jina Code Systems — software company right here in the building. We kept needing services that were here but couldn't find them. So we built Spaze." |
 | Decision-maker | "Companies in this building need what you offer — they just don't know you exist. Spaze fixes that in 2 minutes." |
 | CEO not available | Pitch the receptionist, leave the flyer, get a name and follow-up time. Never leave empty-handed. |
 
@@ -311,7 +676,7 @@ Don't start by explaining the app. Start by asking about *their* world.
 1. **Ask first, pitch second.** Start with "What does your company do?" — not "Let me tell you about our app."
 2. **Make it about them.** Find their pain point (vendors, clients, visibility) and connect Spaze to it.
 3. **Show, don't tell.** Open the app on your phone. 10 seconds of seeing it beats 5 minutes of explaining.
-4. **Always leave something behind.** Flyer, QR code, or even a WhatsApp message with the link.
+4. **Always leave something behind.** Flyer, QR code, or a WhatsApp message with the download link.
 5. **Always get something back.** A name, a follow-up time, or a sign-up on the spot.
 6. **Never argue.** If they say no, say "No problem — here's a flyer in case you change your mind. I'm in the building."
 
@@ -323,4 +688,4 @@ Don't start by explaining the app. Start by asking about *their* world.
 
 ---
 
-*For demos, questions, or support — contact us at [your contact info].*
+*For demos, questions, or support — contact Jina Code Systems.*
